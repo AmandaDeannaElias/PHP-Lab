@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Cars\\Model\\" : "Model/"
+        }
+    },
+    "require": {
+        "phpoffice/phpword": "^0.18.1"
+    }
+}
